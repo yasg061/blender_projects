@@ -1,2 +1,2 @@
 # blender_projects
-All my blender projects in progress
+All my blender projects. 
